@@ -166,6 +166,8 @@ CSV export
 
 DOT/PNG visualization
 
+<img width="704" height="320" alt="image" src="https://github.com/user-attachments/assets/7c1cd38e-63f9-462f-ac73-9c42c6fa5130" />
+
 <img width="640" height="482" alt="image" src="https://github.com/user-attachments/assets/60a7285e-99ba-4f52-a785-de4ab1ab6608" />
 
 
